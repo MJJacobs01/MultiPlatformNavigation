@@ -1,0 +1,19 @@
+
+y
+Iapp/src/main/java/za/co/jacobs/mj/multiplatformnavigation/MainActivity.kt,a/7/a72d61801b664942bd9cd02f316d5a482c41c9ff
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+ç
+]app/NavigationLibrary/src/main/java/za/co/jacobs/mj/navigationlibrary/NavigationController.kt,6/0/60880ebf8774ef761426cfd600140054deb26a77
+V
+&app/NavigationLibrary/build.gradle.kts,9/e/9e648f7c49e430e484d2e587c8255201a8b4a243
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+C
+settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
+O
+app/Naviagtion/build.gradle.kts,a/e/ae73250cfed632449500ae8da77bf73b75277528
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+Å
+Qapp/src/main/java/za/co/jacobs/mj/multiplatformnavigation/NaviagtionController.kt,8/d/8d6eeca6ada71ac61234a8299612be5d386c8195
